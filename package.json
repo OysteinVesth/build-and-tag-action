@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "npx ncc run ./src/index.ts",
-    "build": "npx ncc build ./src/index.ts && mkdir -p dist/some && echo \"hehehe\" >> dist/some/index.js",
+    "build": "npx ncc build ./src/index.ts",
     "test": "jest --coverage"
   },
   "dependencies": {
