@@ -1,8 +1,0 @@
-{
-  "main": "index.js",
-  "files": [
-    "README.md",
-    "another-action/action.yml",
-    "another-action/index.js"
-  ]
-}
